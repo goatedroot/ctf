@@ -324,4 +324,4 @@ and we got ROOT!!
 
 ## proof
 
-![root](./root.png)
+![root](../../proof/guardian.png)

@@ -28,7 +28,7 @@ there was a vulnerability in versions < 2.3.3 of Nginx UI where any user without
 
 ---
 
-## foothold — CVE (Nginx UI backup disclosure)
+## foothold — CVE (CVE-2026-27944)
 
 unzipping the backup file we got two more `.zip` files and a `hash_info.txt` which was not in plain text
 

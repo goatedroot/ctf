@@ -1,4 +1,3 @@
-
 ## about the writeups
 
 These aren’t polished solutions or perfect walkthroughs. They’re a record of everything I tried while working toward pwning the CTF — including wrong turns, failed attempts, and ideas that didn’t pan out.
